@@ -1,15 +1,28 @@
-# tandemik
-🚀 Test Project: Vercel Deployment Check
+📊 Carousel Designer Meta
 
-This repository is a small test project deployed on Vercel to verify that I still remember the full workflow of modern deployments.
-It’s not meant to be a feature-rich app, but rather a proof of concept – from local setup, through GitHub, all the way to automatic deployment on Vercel.
+KI-gestützter Design-Editor für performante Social Ads
+Dieses Projekt ist eine Landingpage für den Carousel Designer Meta, ein Tool zur Erstellung und Optimierung dynamischer Werbeanzeigen auf Meta, TikTok und Pinterest.
+Die Seite wurde mit HTML, Tailwind CSS und Custom CSS umgesetzt und enthält neben Produktinformationen auch eine Preisübersicht und ein Kontaktformular.
 
-🔹 Tech Stack:
+🚀 Features
 
-HTML
+🎨 Modernes Landingpage-Design mit TailwindCSS & Custom CSS
 
-Tailwind CSS
+🧠 KI-gestützte Design-Vorschläge für Carousel-Ads
 
-Vercel CI/CD
+🎯 Plattformübergreifende Optimierung für Meta, TikTok & Pinterest
 
-GitHub Integration
+🧪 Integrierte A/B-Tests für kreative Varianten
+
+🔄 Produktdaten-Anbindung via Feed oder API
+
+📈 Preistabellen & Pakete für verschiedene Kundensegmente
+
+📬 Kontaktformular mit DSGVO-Checkbox & formsubmit.co Integration
+
+⚡ Responsive Layouts für Desktop, Tablet & Mobile
+
+📜 Lizenz
+
+Dieses Projekt steht unter der MIT-Lizenz.
+Details siehe LICENSE
